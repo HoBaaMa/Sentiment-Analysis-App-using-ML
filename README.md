@@ -42,9 +42,6 @@ Welcome to the Sentiment Analysis App! This project leverages Machine Learning a
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
