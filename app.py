@@ -4,6 +4,8 @@ import helper
 import pickle
 import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 
 model = pickle.load(open("Models/model.pkl", 'rb'))
