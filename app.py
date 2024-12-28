@@ -3,6 +3,7 @@ import sklearn
 import helper
 import pickle
 import nltk
+nltk.download('punkt')
 
 
 model = pickle.load(open("Models/model.pkl", 'rb'))
