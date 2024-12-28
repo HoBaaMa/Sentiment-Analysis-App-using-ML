@@ -6,7 +6,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
-
+nltk.download('punkt_tab')
 
 model = pickle.load(open("Models/model.pkl", 'rb'))
 vectorizer = pickle.load(open("Models/vectorizer.pkl", 'rb'))
