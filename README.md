@@ -45,7 +45,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Acknowledgments
 
 Special thanks to my mentor, Ahmed Hikal, AMIT Learning and ODC for their support and guidance throughout this project.
-
----
-
-Feel free to adjust the repository URL, acknowledgments, and any other details to match your specific project setup!
