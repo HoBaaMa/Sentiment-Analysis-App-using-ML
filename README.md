@@ -19,7 +19,7 @@ Welcome to the Sentiment Analysis App! This project leverages Machine Learning a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Sentiment-Analysis-App-using-ML.git
+   git clone https://github.com/HoBaaMa/Sentiment-Analysis-App-using-ML.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -41,7 +41,6 @@ Welcome to the Sentiment Analysis App! This project leverages Machine Learning a
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 
 ## Acknowledgments
 
