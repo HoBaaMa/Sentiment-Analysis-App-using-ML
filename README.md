@@ -1,7 +1,3 @@
-Certainly! Here's a sample README for your Sentiment Analysis App project on GitHub:
-
----
-
 # Sentiment Analysis App
 
 Welcome to the Sentiment Analysis App! This project leverages Machine Learning and Natural Language Processing to analyze text and determine its sentiment as Positive or Negative.
